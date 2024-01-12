@@ -2,10 +2,10 @@
 ID card generation assignment
 
 Current UI:
-<img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1602008056/Blogimages/Screenshot_2020-10-06_at_11.42.58_PM_m3eath.png" height="400"/>
+<img width="629" alt="Screen Shot 2024-01-12 at 6 38 55 AM" src="https://github.com/recreatesuccess/1_starter_code/assets/28516499/7154c977-5e22-433a-9bcd-afd6dfa1fcb9">
 
 ### Objective:
-Populate values in ID card using Javascript
+Populate values in an ID card using Javascript
 
 ### Learnings:
 DOM manipulation using Javascript
